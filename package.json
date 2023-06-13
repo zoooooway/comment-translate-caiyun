@@ -2,11 +2,20 @@
   "name": "comment-translate-caiyun",
   "displayName": "comment-translate-caiyun",
   "description": "translate plugin for vscode via caiyun",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "zoooooway",
   "engines": {
     "vscode": "^1.70.0"
   },
+  "keywords": [
+    "translateSource",
+    "caiyun",
+    "彩云",
+    "comment translate",
+    "翻译",
+    "注释",
+    "翻訳"
+  ],
   "categories": [
     "Other"
   ],
